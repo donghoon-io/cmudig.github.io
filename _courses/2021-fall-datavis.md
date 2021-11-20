@@ -326,6 +326,7 @@ schedule:
         type: pdf
   - date: 2021-11-09
     title: Scalable Visualization
+    slides: https://drive.google.com/file/d/12dplQJ2q_-brixAvSO0ZM8gghH1m5ZPm
     discussion: https://canvas.cmu.edu/courses/24179/discussion_topics/346288
     readings:
       - name: "imMens: Real-time Visual Querying of Big Data"
@@ -349,20 +350,70 @@ schedule:
         type: pdf
   - date: 2021-11-11
     title: Accessibility
+    slides: https://drive.google.com/file/d/12e8ZeFqQoqR-rHbj44n9m7BW-IYcv521
     discussion: https://canvas.cmu.edu/courses/24179/discussion_topics/346289
     readings:
+      - name: "Sociotechnical Considerations for Accessible Visualization Design"
+        url: https://arxiv.org/pdf/1909.05118.pdf
+        type: pdf
+        author: Alan Lundgard, Crystal Lee, Arvind Satyanarayan
+        venue: IEEE VIS
+        required: true
+        year: 2019
+      - name: "Social Model Of Disability"
+        url: https://pwd.org.au/resources/disability-info/social-model-of-disability/
+        type: video
+        required: true
+      - name: "Are Your Data Visualizations Excluding People?"
+        url: https://youtu.be/SWB-KLXN-Ok?t=1206
+        type: video
+        required: false
+        year: 2021
+        author: Frank Elavsky, Larene Le Gassick, Sarah Fossheim
   - date: 2021-11-16
     title: Animation
+    slides: https://drive.google.com/file/d/12f3mrAtruVQpjk4F8P00U9u0fqcsEe_e
     discussion: https://canvas.cmu.edu/courses/24179/discussion_topics/346291
     readings:
   - date: 2021-11-18
-    title: Uncertainty
-    discussion: https://canvas.cmu.edu/courses/24179/discussion_topics/346292
-    readings:
-  - date: 2021-11-23
     title: Visualization and Machine Learning
     discussion: https://canvas.cmu.edu/courses/24179/discussion_topics/346295
     readings:
+      - name: "The Myth of the Impartial Machine"
+        url: https://parametric.press/issue-01/the-myth-of-the-impartial-machine/
+        type: website
+        author: Alice Feng, Shuyan Wu
+        required: true
+        year: 2019
+      - name: "The Beginner's Guide to Dimensionality Reduction"
+        url: https://dimensionality-reduction-293e465c2a3443e8941b016d.vercel.app/
+        type: website
+        author: Matthew Conlen, Fred Hohman
+        required: true
+        year: 2018
+      - name: "Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models"
+        url: https://fredhohman.com/papers/19-gamut-chi.pdf
+        type: pdf
+        required: false
+        year: 2019
+        venue: ACM CHI
+        author: Fred Hohman, Andrew Head, Rich Caruana, Robert DeLine, Steven Drucker
+  - date: 2021-11-23
+    title: Uncertainty
+    discussion: https://canvas.cmu.edu/courses/24179/discussion_topics/346292
+    readings:
+      - name: "The Curious Absence of Uncertainty from Many (Most?) Visualizations"
+        url: https://medium.com/multiple-views-visualization-research-explained/the-curious-absence-of-uncertainty-from-many-most-visualizations-f0c7f89e8d84
+        type: website
+        author: Jessica Hullman
+        required: true
+        year: 2019
+      - name: "The effects of communicating uncertainty on public trust in facts and numbers"
+        url: https://www.pnas.org/content/pnas/117/14/7672.full.pdf
+        type: pdf
+        required: false
+        year: 2020
+        author: Anne Marthe van der Bles, Sander van der Linden, Alexandra L. J. Freeman, and David J. Spiegelhalter
   - date: 2021-11-30
     title: Final Project Presentations
     discussion: https://canvas.cmu.edu/courses/24179/discussion_topics/346294
